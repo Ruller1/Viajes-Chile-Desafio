@@ -8,3 +8,16 @@ body{
 .navbar{
     background-color: transparent;
 }
+
+.parrafos{
+    color: #fff;
+}
+
+.icon{
+    background-color: cyan;
+    padding-left: 30px;
+    padding-bottom: 30px;
+}
+h2{
+    color: #fff;
+}
