@@ -5,7 +5,7 @@ body{
 .logo img{
     width: 5%;
 }
-.navbar{
+.navbar-dark{
     background-color: transparent;
 }
 
@@ -20,4 +20,19 @@ body{
 }
 h2{
     color: #fff;
+}
+
+.card{
+    background-color: aqua;
+}
+
+footer{
+    background-color: aqua;
+}
+
+.icons{
+    display: inline-flex;
+}
+.iconos{
+    text-align: right !important;
 }
