@@ -21,6 +21,9 @@ body{
     display: inline-flex;
     font-size: small;
 }
+.iconos{
+    text-align: center;
+}
 
 .icon{
     background-color: cyan;
@@ -38,12 +41,19 @@ h2{
 footer{
     background-color: deepskyblue;
 }
-.lados h2{
-    padding: 0;
-}
 
 .icons{
     font-size: 30px;
     color: #fff !important;
     text-decoration:none;
+    letter-spacing: 10px;
+}
+
+.iconos1{
+    background-color: aqua;
+    font-size: 35px;
+    padding-right: 180px;
+    padding-left: 180px;
+    padding-bottom: 7px;
+    padding-top: 7px;
 }
